@@ -250,7 +250,7 @@ body.dark-theme {
   display: inline-flex;
   align-items: center;
   column-gap: .5rem;
-  background-color: #f75aaa;
+  background-color: var(--first-color);
   color: #fff;
   padding: 1.15rem 1.5rem;
   border-radius: .5rem;
