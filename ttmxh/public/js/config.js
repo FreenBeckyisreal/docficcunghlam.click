@@ -1,11 +1,11 @@
 const __DATA__ = {
     'config' : {
-        'title' : 'BÙI QUANG KHẢI',
+        'title' : 'THAI HONG LAM',
         'favicon' : 'anhchinh.jpg',
-        'notice': 'BUI QUANG KHAI 2008'
+        'notice': 'THAI HONG LAM DTRAI S1'
     },
     'avatar-image' : 'anhchinh.jpg',
-    'name' : 'Bùi Quang Khải ', 
+    'name' : 'Thái Hồng Lâm ', 
     'is_tick' : true,
     'skills' : [
         'DDoS Attack ',
@@ -14,8 +14,8 @@ const __DATA__ = {
     'bio-storys' : [
         {
             'image' : 'anhchinh.jpg',
-            'content' : 'LIÊN HỆ ADMIN',
-            'author' : 'Bùi Quang Khải',
+            'content' : 'CONTACT ADMIN',
+            'author' : 'Thái Hồng Lâm',
         },
     ],
     'links' : [
@@ -29,29 +29,29 @@ const __DATA__ = {
         {
             'image' : 'facebook.jpg',
             'title' : 'Facebook', 
-            'show-value' : '@buiquangkhai.user4' ,
-            'value' : 'https://www.facebook.com/buiquangkhai.user4/',
+            'show-value' : '@ThaiHongLam.Info' ,
+            'value' : 'https://www.facebook.com/ThaiHongLam.Info/',
             'type' : 0,
         },
         {
             'image' : 'zalo.jpg',
             'title' : 'Zalo', 
-            'show-value' : 'Bùi Quang Khải',
+            'show-value' : 'Thái Hồng Lâm',
             'value' : 'https://zalo.me/0352876128',
             'type' : 0,
         },
         {
             'image' : 'phone.jpg',
             'title' : 'Hotline', 
-            'show-value' : '0352.876.128',
-            'value' : 'tel:0352876128',
+            'show-value' : 'xxxx xxx xxx',
+            'value' : 'tel:xxxx xxx xxx',
             'type' : 0,
         },
         {
             'image' : 'gmail.jpg',
             'title' : 'Gmail', 
-            'show-value' : 'quangkhaicontactcopyright@gmail.com',
-            'value' : 'mailto:quangkhaicontactcopyright@gmail.com',
+            'show-value' : 'lamvyhuyenhan2008@gmail.com',
+            'value' : 'mailto:lamvyhuyenhan2008@gmail.com',
             'type' : 0,
         },
     ]
