@@ -1,10 +1,10 @@
 const __DATA__ = {
     'config' : {
         'title' : 'THAI HONG LAM',
-        'favicon' : 'anhchinh.jpg',
+        'favicon' : 'https://imgur.com/UnxXtmB.jpg',
         'notice': 'THAI HONG LAM DTRAI S1'
     },
-    'avatar-image' : 'anhchinh.jpg',
+    'avatar-image' : 'https://imgur.com/UnxXtmB.jpg',
     'name' : 'Thái Hồng Lâm ', 
     'is_tick' : true,
     'skills' : [
@@ -13,7 +13,7 @@ const __DATA__ = {
     ],
     'bio-storys' : [
         {
-            'image' : 'anhchinh.jpg',
+            'image' : 'https://imgur.com/UnxXtmB.jpg',
             'content' : 'CONTACT ADMIN',
             'author' : 'Thái Hồng Lâm',
         },
@@ -22,8 +22,8 @@ const __DATA__ = {
         {
             'image' : 'wallet.png',
             'title' : 'Thông Tin Thanh Toán', 
-            'show-value' : 'Bùi Quang Khải',
-            'value' : 'https://xbinzh.ml/PayMent/',
+            'show-value' : 'Thái Hồng Lâm',
+            'value' : 'https://thhlam-bank.blogspot.com/',
             'type' : 0,
         },
         {
