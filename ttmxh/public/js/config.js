@@ -1,19 +1,19 @@
 const __DATA__ = {
     'config' : {
         'title' : 'THAI HONG LAM',
-        'favicon' : 'https://imgur.com/UnxXtmB.jpg',
+        'favicon' : 'cx3iNBL.png',
         'notice': 'THAI HONG LAM DTRAI S1'
     },
-    'avatar-image' : 'https://imgur.com/UnxXtmB.jpg',
+    'avatar-image' : 'cx3iNBL.png',
     'name' : 'Thái Hồng Lâm ', 
     'is_tick' : true,
     'skills' : [
-        'DDoS Attack ',
+        'Student ',
         'Designer',
     ],
     'bio-storys' : [
         {
-            'image' : 'https://imgur.com/UnxXtmB.jpg',
+            'image' : 'cx3iNBL.png',
             'content' : 'CONTACT ADMIN',
             'author' : 'Thái Hồng Lâm',
         },
@@ -37,7 +37,7 @@ const __DATA__ = {
             'image' : 'zalo.jpg',
             'title' : 'Zalo', 
             'show-value' : 'Thái Hồng Lâm',
-            'value' : 'https://zalo.me/0352876128',
+            'value' : 'http://zaloapp.com/qr/p/qv8uo1t771hm',
             'type' : 0,
         },
         {
